@@ -1,4 +1,4 @@
 ## PROJETO CALCULADORA IMC
 
 
-<img src="PRINT.PNG" alt="Print">
+<img src="IMAGE/PRINT.png" alt="Print">
